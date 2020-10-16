@@ -1,8 +1,8 @@
 {
-    "name": "kommuna/jirawebhook",
+    "name": "doghouse/jirawebhook",
     "description": "PHP classes for Atlassian Jira webhook data structure with events",
     "keywords": ["jira", "atlassian", "webhook", "reflection"],
-    "homepage": "https://github.com/kommuna/jirawebhook",
+    "homepage": "https://github.com/DoghouseMedia/jirawebhook",
     "type": "library",
     "license": "Unlicense",
     "minimum-stability": "dev",
